@@ -6,4 +6,14 @@ Adapted from templates included in Inky pHAT tutorials:
 
 <p><img src="https://github.com/DanMiles1/Weather-Station/blob/master/resources/icon-cloud.png?raw=true" alt="foo bar" title="train &amp; tracks" /></p>
 
+<p><img src="https://github.com/DanMiles1/Weather-Station/blob/master/resources/icon-rain.png?raw=true" alt="foo bar" title="train &amp; tracks" /></p>
+
+<p><img src="https://github.com/DanMiles1/Weather-Station/blob/master/resources/icon-snow.png?raw=true" alt="foo bar" title="train &amp; tracks" /></p>
+
+<p><img src="https://github.com/DanMiles1/Weather-Station/blob/master/resources/icon-storm.png?raw=true" alt="foo bar" title="train &amp; tracks" /></p>
+
+<p><img src="https://github.com/DanMiles1/Weather-Station/blob/master/resources/icon-sun.png?raw=true" alt="foo bar" title="train &amp; tracks" /></p>
+
+<p><img src="https://github.com/DanMiles1/Weather-Station/blob/master/resources/icon-wind.png?raw=true" alt="foo bar" title="train &amp; tracks" /></p>
+
 https://learn.pimoroni.com/tutorial/sandyj/getting-started-with-inky-phat
