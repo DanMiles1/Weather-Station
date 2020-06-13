@@ -7,10 +7,12 @@ Adapted from templates included in Inky pHAT tutorials:
     <tr>
       <td><img src="https://github.com/DanMiles1/Weather-Station/blob/master/resources/icon-cloud.png?raw=true" alt="Cloud Icon" title="Cloudy" /></td>
       <td><img src="https://github.com/DanMiles1/Weather-Station/blob/master/resources/icon-rain.png?raw=true" alt="Rain Icon" title="Rainy" /></td>
+        <td><img src="https://github.com/DanMiles1/Weather-Station/blob/master/resources/icon-snow.png?raw=true" alt="Snow Icon" title="Snowy" /></td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>4</td>
+      <td><img src="https://github.com/DanMiles1/Weather-Station/blob/master/resources/icon-storm.png?raw=true" alt="Storm Icon" title="Stormy" /></td>
+      <td><img src="https://github.com/DanMiles1/Weather-Station/blob/master/resources/icon-sun.png?raw=true" alt="Sun Icon" title="Sunny" /></td>
+        <td><img src="https://github.com/DanMiles1/Weather-Station/blob/master/resources/icon-wind.png?raw=true" alt="Wind Icon" title="Windy" /></td>
     </tr>
   </table>
     
@@ -21,12 +23,12 @@ Adapted from templates included in Inky pHAT tutorials:
 
 <p></p>
 
-<p><img src="https://github.com/DanMiles1/Weather-Station/blob/master/resources/icon-snow.png?raw=true" alt="Snow Icon" title="Snowy" /></p>
+<p></p>
 
-<p><img src="https://github.com/DanMiles1/Weather-Station/blob/master/resources/icon-storm.png?raw=true" alt="Storm Icon" title="Stormy" /></p>
+<p></p>
 
-<p><img src="https://github.com/DanMiles1/Weather-Station/blob/master/resources/icon-sun.png?raw=true" alt="Sun Icon" title="Sunny" /></p>
+<p></p>
 
-<p><img src="https://github.com/DanMiles1/Weather-Station/blob/master/resources/icon-wind.png?raw=true" alt="Wind Icon" title="Windy" /></p>
+<p></p>
 
 https://learn.pimoroni.com/tutorial/sandyj/getting-started-with-inky-phat
