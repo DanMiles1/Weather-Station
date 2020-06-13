@@ -5,8 +5,8 @@ A small project to display the weather on an [Inky pHAT](https://shop.pimoroni.c
 Adapted from templates included in Inky pHAT tutorials:
 <table>
     <tr>
-      <td>1</td>
-      <td>2</td>
+      <td><img src="https://github.com/DanMiles1/Weather-Station/blob/master/resources/icon-cloud.png?raw=true" alt="Cloud Icon" title="Cloudy" /></td>
+      <td><img src="https://github.com/DanMiles1/Weather-Station/blob/master/resources/icon-rain.png?raw=true" alt="Rain Icon" title="Rainy" /></td>
     </tr>
     <tr>
       <td>3</td>
@@ -17,9 +17,9 @@ Adapted from templates included in Inky pHAT tutorials:
   
   
   
-<p><img src="https://github.com/DanMiles1/Weather-Station/blob/master/resources/icon-cloud.png?raw=true" alt="Cloud Icon" title="Cloudy" /></p>
+<p></p>
 
-<p><img src="https://github.com/DanMiles1/Weather-Station/blob/master/resources/icon-rain.png?raw=true" alt="Rain Icon" title="Rainy" /></p>
+<p></p>
 
 <p><img src="https://github.com/DanMiles1/Weather-Station/blob/master/resources/icon-snow.png?raw=true" alt="Snow Icon" title="Snowy" /></p>
 
