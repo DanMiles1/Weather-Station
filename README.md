@@ -2,7 +2,7 @@
 
 A small project to display the weather on an [Inky pHAT](https://shop.pimoroni.com/products/inky-phat?variant=12549254217811) e-ink display, powered by a [Raspberry Pi Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-w/) and Python Script
 
-Custom Icons Used
+## Custom Icons Used
 <table>
     <tr>
       <td><img src="https://github.com/DanMiles1/Weather-Station/blob/master/resources/icon-cloud.png?raw=true" alt="Cloud Icon" title="Cloudy" /></td>
